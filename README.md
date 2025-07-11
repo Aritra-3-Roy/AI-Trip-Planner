@@ -1,0 +1,1 @@
+This is an AI-Travel-Planner App which will help any user to plan his or her trip in the best possible way based on the budget. Further it can also provide Flight informations required to travel to the destination. There is a additonal feature of Chatbot which provides the user an assistance to plan there trip in the best possible way by consulting with the bot. 
